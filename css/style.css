@@ -87,6 +87,12 @@ li {
     font-size: 18px;
 }
 
+.publication-meta {
+    font-size: 15px;
+    color: #777;
+    margin-top: -10px;
+}
+
 @media (max-width: 600px) {
 
     body {
